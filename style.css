@@ -1,20 +1,21 @@
+
 *{
-    padding: 0%;
-margin: 0%;
-color:white;
+    background-color: beige;
 }
-#navibar{
-    height:60px;
-    background-color: #0f1111;
+h1{
+    height: 50px;
+    width:25px;
+    color:burlywood;
+    text-align:left;
+    text-transform: capitalize;
+    text-decoration:solid;
+}
+p{
+    color:black;
 }
 button{
-    background-color: #f08804;
-}
-#logo{
-   color: #f08804; 
-   font-size: 25px;
-
+    background-color: chocolate;
 }
 a{
-    margin-right: 200px;;
+    text-decoration: underline;
 }
